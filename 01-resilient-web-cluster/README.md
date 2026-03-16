@@ -18,5 +18,5 @@ This project demonstrates how to eliminate "Single Point of Failure" in web host
 ## 🚀 How to Run
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/](https://github.com/)[YOUR-USERNAME]/[YOUR-REPO-NAME].git
-   cd [YOUR-REPO-NAME]/terraform
+   git clone https://github.com/nivedmohan77/The-Chaos-Repo.git
+   cd The-Chaos-Repo/terraform
